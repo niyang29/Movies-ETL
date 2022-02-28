@@ -21,6 +21,6 @@ Purpose: In order to help prepare for a hackaton, it was important to gather dat
 * Filling in missing values.
 * Mergeing DataFrames.
 
-4. Create the Movie Database
+4. Create the Movie Database (reference ETL_create_database)
 * Connect the database by sqlalchemy library and to_sql method
 * And Finally ETL - extract, transform, and load the data. 
